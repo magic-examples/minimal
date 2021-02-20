@@ -32,12 +32,12 @@
     "url": "https://github.com/magic-examples/minimal/issues"
   },
   "dependencies": {
-    "@magic-modules/no-spy": "0.0.5",
-    "@magic/core": "0.0.100"
+    "@magic-modules/no-spy": "0.0.6",
+    "@magic/core": "0.0.107"
   },
   "devDependencies": {
-    "@magic/format": "0.0.20",
-    "@magic/test": "0.1.59"
+    "@magic/format": "0.0.22",
+    "@magic/test": "0.1.64"
   },
   "keywords": [
     "magic",
