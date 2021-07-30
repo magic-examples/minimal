@@ -6,6 +6,7 @@
   "description": "@magic example page.",
   "license": "AGPL-3.0",
   "homepage": "https://magic.github.io/example-minimal",
+  "type": "module",
   "engines": {
     "node": ">=14.15.4"
   },
