@@ -28,18 +28,20 @@ github organization to see other examples
 ### file sizes
 
 at the time of writing this line, this page loads:
-* 12000 bytes of javascript (5500 bytes compressed)
-* 2900 bytes of css (1760 bytes compressed)
-* 1000 bytes index.html (1.25kb bytes compressed)
+
+- 12000 bytes of javascript (5500 bytes compressed)
+- 2900 bytes of css (1760 bytes compressed)
+- 1000 bytes index.html (1.25kb bytes compressed)
 
 #### load stats
+
 ms are approximations:
 
 system: firefox, linux, lenovo x280, wifi
 location: vienna, austria, europe
 
-* 4 requests (index.html, magic.js, magic.css, favicon.ico)
-* 17 KB / 10 KB transferred
+- 4 requests (index.html, magic.js, magic.css, favicon.ico)
+- 17 KB / 10 KB transferred
 
 [100% google pagespeed score](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fmagic-examples.github.io%2Fminimal)
 
@@ -53,8 +55,8 @@ location: vienna, austria, europe
 
 #### requirements
 
-* be in a directory you want to work in
-* have nodejs > 14.2.0 installed.
+- be in a directory you want to work in
+- have nodejs > 14.2.0 installed.
 
 ```
 // clone this repository
